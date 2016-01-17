@@ -24,3 +24,4 @@ Direct
 - Faculdades São José http://www.saojose.br (html, css, js, wp)
 - Gracie Barra http://graciebarra.com (html, css, js, wp)
 - Internation Brazilian Jiu-Jitsu http://ibjjf.org (html, css, js, wp)
+- Talk Of The Town http://www.talkofthetown.com.br (html, css, js, wp)
