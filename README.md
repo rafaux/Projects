@@ -22,6 +22,7 @@ Direct
 - Bledoo http://www.bledoo.com.br (html, css, js, design)
 - Café Recanto http://caferecanto.com.br (html, css, js, wp)
 - Faculdades São José http://www.saojose.br (html, css, js, wp)
+- Giz Agency http://giz.com.br (html, css, js, wp)
 - Gracie Barra http://graciebarra.com (html, css, js, wp)
 - Internation Brazilian Jiu-Jitsu http://ibjjf.org (html, css, js, wp)
 - Orange Agency http://orangeag.com.br (html, css, js, wp)
