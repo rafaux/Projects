@@ -13,6 +13,7 @@ BrainBros
 - Dymatize http://www.dymatize.com (html, css, js, wp)
 - Exceda http://www.exceda.com (html, css, js, wp)
 - Exceda Insights http://www.exceda.com/insights/ (html, css, js, wp)
+- Fantastic Stadium Buffet http://www.fantasticstadiumbuffet.com.br/ (html, css, js, wp)
 - Isover http://www.isover.com (drupal)
 - Naturallia http://www.naturallia.com.br (html, css, js, wp)
 - Skyline http://www.theagencyskyline.com (html, css, js, wp)
@@ -47,9 +48,6 @@ Groupmy Agency
 Hauer
 - Política Show http://www.politicashow.com.br (html, css, js, design)
 
-Peterson
-- Surf Eco Festival http://surfecofestival.com.br/aovivo/ (html, css, js, design)
-
 Rox Branding
 - Don Pastello http://donpastello.com.br (html, css, js, wp)
 - Pizza Oba http://www.pizzaoba.com (html, css, js)
@@ -61,7 +59,7 @@ Direct
 - Faculdades São José http://www.saojose.br (html, css, js, wp)
 - Giz Agency http://giz.com.br (html, css, js, wp)
 - Gracie Barra http://graciebarra.com (html, css, js, wp)
-- Internation Brazilian Jiu-Jitsu http://ibjjf.org (html, css, js, wp)
+- International Brazilian Jiu-Jitsu http://ibjjf.org (html, css, js, wp)
 - Orange Agency http://orangeag.com.br (html, css, js, wp)
 - Project Lab http://www.projectlab.com.br (html, css, js, wp)
 - Ruby Rose http://www.rubyrose.com.br (html, css, js, wp)
