@@ -17,6 +17,7 @@ BrainBros
 - Isover http://www.isover.com (drupal)
 - Naturallia http://www.naturallia.com.br (html, css, js, wp)
 - Skyline http://www.theagencyskyline.com (html, css, js, wp)
+- Thermomatic http://www.thermomatic.com.br (html, css, js, wp)
 - VX Strong http://www.vitaxtrong.com/ (html, css, js, wp)
 - XCDN https://xcdn.exceda.com (html, css, js, wp)
 
