@@ -8,12 +8,14 @@ ABID Agency
 - Ronnely http://www.ronnely.com.br (html, css, js, wp)
 
 BrainBros
+- Aragon http://www.aragongrupo.com.br (html, css, js)
 - Conforto Acústico http://www.confortoacustico.com.br (html, css, js, wp)
 - Desidrat http://www.desidrat.com.br (html, css, js, wp)
 - Dymatize http://www.dymatize.com (html, css, js, wp)
 - Exceda http://www.exceda.com (html, css, js, wp)
 - Exceda Insights http://www.exceda.com/insights/ (html, css, js, wp)
 - Fantastic Stadium Buffet http://www.fantasticstadiumbuffet.com.br/ (html, css, js, wp)
+- Gourmet Jr. http://www.gourmetjr.com (html, css, js, wp)
 - Isover http://www.isover.com (drupal)
 - Naturallia http://www.naturallia.com.br (html, css, js, wp)
 - Skyline http://www.theagencyskyline.com (html, css, js, wp)
