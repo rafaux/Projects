@@ -2,6 +2,11 @@
 
 About? https://github.com/rafaux/About
 
+Últimos 3 Notáveis
+- DWQ http://dwq.com.br (html, css, js, wp)
+- Gourmet Jr. http://www.gourmetjr.com (html, css, js, wp)
+- VX Strong http://www.vitaxtrong.com/ (html, css, js, wp)
+
 ABID Agency
 - MP Automação http://mpautomacao.com (js, wp)
 - Oggi Sorvetes http://www.oggisorvetes.com.br (html, css, js, wp)
@@ -59,6 +64,7 @@ Direct
 - Banco do Brasil Saber24h http://www.saber24horas.com.br (html, css)
 - Bledoo http://www.bledoo.com.br (html, css, js, design)
 - Café Recanto http://caferecanto.com.br (html, css, js, wp)
+- DWQ http://dwq.com.br (html, css, js, wp)
 - Faculdades São José http://www.saojose.br (html, css, js, wp)
 - Giz Agency http://giz.com.br (html, css, js, wp)
 - Gracie Barra http://graciebarra.com (html, css, js, wp)
