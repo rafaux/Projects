@@ -2,10 +2,11 @@
 
 About? https://github.com/rafaux/About
 
-Últimos 3 Notáveis
+Últimos 4 Notáveis
 - DWQ http://dwq.com.br (html, css, js, wp)
 - Gourmet Jr. http://www.gourmetjr.com (html, css, js, wp)
 - VX Strong http://www.vitaxtrong.com/ (html, css, js, wp)
+- Fantastic World Buffet http://www.fantasticstadiumbuffet.com.br/ (html, css, js, wp)
 
 ##################################################
 
