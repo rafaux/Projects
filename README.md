@@ -6,7 +6,7 @@ About? https://github.com/rafaux/About
 - DWQ http://dwq.com.br (html, css, js, wp)
 - Gourmet Jr. http://www.gourmetjr.com (html, css, js, wp)
 - VX Strong http://www.vitaxtrong.com/ (html, css, js, wp)
-- Fantastic World Buffet http://www.fantasticstadiumbuffet.com.br/ (html, css, js, wp)
+- Lapa Team https://lapateam.com (html, css, js, wp)
 
 ##################################################
 
@@ -81,6 +81,7 @@ Direct
 - Giz Agency http://giz.com.br (html, css, js, wp)
 - Gracie Barra http://graciebarra.com (html, css, js, wp)
 - International Brazilian Jiu-Jitsu http://ibjjf.org (html, css, js, wp)
+- Lapa Team https://lapateam.com (html, css, js, wp)
 - Orange Agency http://orangeag.com.br (html, css, js, wp)
 - Project Lab http://www.projectlab.com.br (html, css, js, wp)
 - Ruby Rose http://www.rubyrose.com.br (html, css, js, wp)
