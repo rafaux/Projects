@@ -76,6 +76,7 @@ Direct
 - Banco do Brasil Saber24h http://www.saber24horas.com.br (html, css)
 - Bledoo http://www.bledoo.com.br (html, css, js, design)
 - Café Recanto http://caferecanto.com.br (html, css, js, wp)
+- Camarote FanZone http://camarotefanzone.com.br (html, css, js, wp, design)
 - DWQ http://dwq.com.br (html, css, js, wp)
 - Faculdades São José http://www.saojose.br (html, css, js, wp)
 - Giz Agency http://giz.com.br (html, css, js, wp)
