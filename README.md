@@ -2,7 +2,8 @@
 
 About? https://github.com/rafaux/About
 
-Últimos 5 Notáveis
+Notáveis
+- Dymatize http://www.dymatize.com (html, css, js)
 - DWQ http://dwq.com.br (html, css, js, wp)
 - Gourmet Jr. http://www.gourmetjr.com (html, css, js, wp)
 - VX Strong http://www.vitaxtrong.com/ (html, css, js, wp)
@@ -22,7 +23,7 @@ BrainBros
 - Aragon http://www.aragongrupo.com.br (html, css, js)
 - Conforto Acústico http://www.confortoacustico.com.br (html, css, js, wp)
 - Desidrat http://www.desidrat.com.br (html, css, js, wp)
-- Dymatize http://www.dymatize.com (html, css, js, wp)
+- Dymatize http://www.dymatize.com (html, css, js)
 - Exceda http://www.exceda.com (html, css, js, wp)
 - Exceda Insights http://www.exceda.com/insights/ (html, css, js, wp)
 - Fantastic Stadium Buffet http://www.fantasticstadiumbuffet.com.br/ (html, css, js, wp)
