@@ -9,6 +9,7 @@ Notáveis
 - VX Strong http://www.vitaxtrong.com/ (html, css, js, wp)
 - Lapa Team https://lapateam.com (html, css, js, wp)
 - Skyline http://www.theagencyskyline.com (html, css, js, wp)
+- 242 Coworking http://www.coworkingnojardins.com.br/ (html, css, js, wp)
 
 ##################################################
 
@@ -20,6 +21,7 @@ ABID Agency
 ##################################################
 
 BrainBros
+- 242 Coworking http://www.coworkingnojardins.com.br/ (html, css, js, wp)
 - Aragon http://www.aragongrupo.com.br (html, css, js)
 - Conforto Acústico http://www.confortoacustico.com.br (html, css, js, wp)
 - Desidrat http://www.desidrat.com.br (html, css, js, wp)
