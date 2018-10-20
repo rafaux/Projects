@@ -10,6 +10,7 @@ Notáveis
 - Lapa Team https://lapateam.com (html, css, js, wp)
 - Skyline http://www.theagencyskyline.com (html, css, js, wp)
 - 242 Coworking http://www.coworkingnojardins.com.br/ (html, css, js, wp)
+- Tudo da Flórida https://www.tudodaflorida.com (layout, html, css, js, wp)
 
 ##################################################
 
