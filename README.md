@@ -3,6 +3,7 @@
 About? https://github.com/rafaux/About
 
 Notáveis
+- D-Link Brasil http://dlink.com.br (html, css, js, wp)
 - Dymatize http://www.dymatize.com (html, css, js)
 - DWQ http://dwq.com.br (html, css, js, wp)
 - Gourmet Jr. http://www.gourmetjr.com (html, css, js, wp)
