@@ -4,13 +4,13 @@ About? https://github.com/rafaux/About
 
 Notáveis
 - D-Link Brasil http://dlink.com.br (html, css, js, wp)
+- Skyline Agency http://www.theskylineagency.com (html, css, js, wp)
 - Ponto Urbano https://pontourbano.net (html, css, js, wp)
 - Dymatize http://www.dymatize.com (html, css, js)
 - DWQ http://dwq.com.br (html, css, js, wp)
 - Gourmet Jr. http://www.gourmetjr.com (html, css, js, wp)
 - VX Strong http://www.vitaxtrong.com/ (html, css, js, wp)
 - Lapa Team https://lapateam.com (html, css, js, wp)
-- Skyline http://www.theskylineagency.com (html, css, js, wp)
 - 242 Coworking http://www.coworkingnojardins.com.br/ (html, css, js, wp)
 - Moove https://mooveproducoes.com (design, html, css, js, wp)
 
