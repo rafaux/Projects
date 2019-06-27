@@ -4,6 +4,7 @@ About? https://github.com/rafaux/About
 
 Notáveis
 - 242 Coworking http://www.coworkingnojardins.com.br/ (html, css, js, wp)
+- Catarina Fest https://catarinafest.com (html, css, js, wp)
 - D-Link Brasil http://dlink.com.br (html, css, js, wp)
 - DrinkPedia http://www.drinkpedia.net.br/ (html, css, js, wp)
 - Dymatize http://www.dymatize.com (html, css, js)
@@ -67,6 +68,7 @@ Direct
 - Banco do Brasil Saber24h http://www.saber24horas.com.br (html, css)
 - Café Recanto http://caferecanto.com.br (html, css, js, wp)
 - Camarote FanZone http://camarotefanzone.com.br (html, css, js, wp, design)
+- Catarina Fest https://catarinafest.com (html, css, js, wp)
 - DWQ http://dwq.com.br (html, css, js, wp)
 - Faculdades São José http://www.saojose.br (html, css, js, wp)
 - Giz Agency http://giz.com.br (html, css, js, wp)
