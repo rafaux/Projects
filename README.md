@@ -4,6 +4,7 @@ About? https://github.com/rafaux/About
 
 Notáveis
 - 242 Coworking http://www.coworkingnojardins.com.br/ (html, css, js, wp)
+- Bluecont https://www.bluecont.com/ (html, css, wp, design)
 - Catarina Fest https://catarinafest.com (html, css, js, wp)
 - D-Link Brasil http://dlink.com.br (html, css, js, wp)
 - DrinkPedia http://www.drinkpedia.net.br/ (html, css, js, wp)
@@ -66,6 +67,7 @@ f/Rox Branding
 
 Direct
 - Banco do Brasil Saber24h http://www.saber24horas.com.br (html, css)
+- Bluecont https://www.bluecont.com/ (html, css, wp, design)
 - Café Recanto http://caferecanto.com.br (html, css, js, wp)
 - Camarote FanZone http://camarotefanzone.com.br (html, css, js, wp, design)
 - Catarina Fest https://catarinafest.com (html, css, js, wp)
