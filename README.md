@@ -46,6 +46,16 @@ f/BrainBros
 
 ##################################################
 
+f/Muum
+- Inova Papan https://inovapapan.com.br (html, css, js, wp, ecommerce)
+
+##################################################
+
+f/PocketLab
+- Nau Editora https://naueditora.com.br (html, css, js, wp, ecommerce)
+
+##################################################
+
 f/Groupmy Agency
 - Ackler http://www.moveisackler.com.br (html, css, js, design)
 - Agropecuária Rodeio http://www.agropecuariarodeio.com.br (html, css, js, design)
@@ -78,6 +88,7 @@ Direct
 - Giz Agency http://giz.com.br (html, css, js, wp)
 - Gracie Barra http://graciebarra.com (html, css, js, wp)
 - International Brazilian Jiu-Jitsu http://ibjjf.org (html, css, js, wp)
+- Kind Leather http://kindleather.com/ (html, css)
 - Lapa Team https://lapateam.com (html, css, js, wp)
 - Mixcon https://mixcon.com.br (html, css, js, wp)
 - Mob.Go http://mob-goapp.com.br/ (html, css, js)
