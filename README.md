@@ -92,6 +92,7 @@ Direct
 - International Brazilian Jiu-Jitsu http://ibjjf.org (html, css, js, wp)
 - Kind Leather http://kindleather.com/ (html, css)
 - Lapa Team https://lapateam.com (html, css, js, wp)
+- Meu Cupom Legal https://meucupomlegal.com.br (html, css, js, wp, design)
 - Mixcon https://mixcon.com.br (html, css, js, wp)
 - Mob.Go http://mob-goapp.com.br/ (html, css, js)
 - Moove https://mooveproducoes.com (design, html, css, js, wp)
