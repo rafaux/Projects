@@ -12,6 +12,7 @@ Notáveis
 - Dymatize http://www.dymatize.com (html, css, js)
 - Driven.Cx http://www.driven.cx (html, css, js, wp)
 - DWQ http://dwq.com.br (html, css, js, wp)
+- Gomide Contabilidade https://www.gomidecontabilidade.com.br (html, css, js, wp, layout)
 - Gourmet Jr. http://www.gourmetjr.com (html, css, js, wp)
 - Lapa Team https://lapateam.com (html, css, js, wp)
 - Nau Editora https://naueditora.com.br (html, css, js, wp, ecommerce)
