@@ -3,7 +3,6 @@
 About? https://github.com/rafaux/About
 
 Featured
-- 242 Coworking http://www.coworkingnojardins.com.br/ (html, css, js, wp)
 - BeCare http://becaremat.com.br/ (html, css, js, wp)
 - Bluecont https://www.bluecont.com/ (html, css, wp, design)
 - Café Recanto http://caferecanto.com.br (html, css, js, wp)
@@ -34,6 +33,7 @@ Featured
 - Moove https://mooveproducoes.com (design, html, css, js, wp)
 - Mr. Bey https://www.mrbey.com.br/ (wp)
 - Nau Editora https://naueditora.com.br (html, css, js, wp, ecommerce)
+- Nootra https://nootra.me (html, css, js)
 - Orange Agency http://orangeag.com.br (html, css, js, wp)
 - Pick N Roll https://www.picknrollbrand.com (html, css, js, wp, ecommerce)
 - Project Lab http://www.projectlab.com.br (html, css, js, wp)
