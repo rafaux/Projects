@@ -38,6 +38,7 @@ Featured
 - Pick N Roll https://www.picknrollbrand.com (html, css, js, wp, ecommerce)
 - Project Lab http://www.projectlab.com.br (html, css, js, wp)
 - Projeto Mosaico https://projetomosaico.com.br (html, css, js, wp)
+- Priante http://conceriaprianteusa.com (html, css, js, wp)
 - Ruby Rose http://www.rubyrose.com.br (html, css, js, wp)
 - Ponto Urbano https://pontourbano.net (html, css, js, wp)
 - SingleTrips http://www.singletrips.com.br (html, css, js, wp)
