@@ -16,6 +16,7 @@ Featured
 - DWQ http://dwq.com.br (html, css, js, wp)
 - Euro https://euro.com.br (html, css, js, wp)
 - EloWin https://elowin.com.br (html, css, js, design)
+- Evermore https://evermoreglobal.co.uk/ (html, css, js)
 - Faculdades São José http://www.saojose.br (html, css, js, wp)
 - Futebol Ao Vivo https://www.futebolaovivo.com.br (html, css, js, wp)
 - Gomide Contabilidade https://www.gomidecontabilidade.com.br (html, css, js, wp, design)
