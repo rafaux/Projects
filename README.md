@@ -19,6 +19,7 @@ Featured
 - Evermore https://evermoreglobal.co.uk/ (html, css, js)
 - Faculdades São José http://www.saojose.br (html, css, js, wp)
 - Futebol Ao Vivo https://www.futebolaovivo.com.br (html, css, js, wp)
+- Gaia Hotel https://hotelgaia.com.br/ (html, css, js, wp)
 - Gomide Contabilidade https://www.gomidecontabilidade.com.br (html, css, js, wp, design)
 - Gourmet Jr. http://www.gourmetjr.com (html, css, js, wp)
 - Gracie Barra http://graciebarra.com (html, css, js, wp)
