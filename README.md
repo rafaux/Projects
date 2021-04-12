@@ -1,8 +1,5 @@
-# Projects
+#Featured
 
-About? https://github.com/rafaux/About
-
-Featured
 - BeCare http://becaremat.com.br/ (html, css, js, wp)
 - Bluecont https://www.bluecont.com/ (html, css, wp, design)
 - Café Recanto http://caferecanto.com.br (html, css, js, wp)
@@ -107,4 +104,8 @@ f/Groupmy Agency
 
 f/Rox Branding
 - Don Pastello http://donpastello.com.br (html, css, js, wp)
+
+##################################################
+
+About? https://github.com/rafaux/About
 
