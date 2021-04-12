@@ -10,9 +10,10 @@
 - Kind Leather http://kindleather.com
 - International Brazilian Jiu-Jitsu https://ibjjf.com/
 - Ponto Urbano https://pontourbano.net
+- Projeto Mosaico https://projetomosaico.com.br
 - Skyline Agency http://www.theskylineagency.com
 - Speedo https://www.speedo.com.br/
-- MotoAtacama Honda https://tours.motoatacama.com.br/
+- MotoAtacama Honda https://tours.motoatacama.com.br
 - VX Strong http://www.vitaxtrong.com
 
 # w/Huge
