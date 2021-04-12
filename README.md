@@ -1,110 +1,112 @@
 # Featured
 
-w/Huge
-- BeCare http://becaremat.com.br/ (html, css, js, wp)
-- Bluecont https://www.bluecont.com/ (html, css, wp, design)
-- Café Recanto http://caferecanto.com.br (html, css, js, wp)
-- Camarote FanZone http://camarotefanzone.com.br (html, css, js, wp, design)
-- Catarina Fest https://catarinafest.com (html, css, js, wp)
-- Coral Tintas https://lojacoral.com.br/ (html, css, js)
-- D-Link Brasil http://dlink.com.br (html, css, js, wp)
-- DrinkPedia http://www.drinkpedia.net.br/ (html, css, js, wp)
-- Dymatize http://www.dymatize.com (html, css, js)
-- Driven.Cx http://www.driven.cx (html, css, js, wp)
-- DWQ http://dwq.com.br (html, css, js, wp)
-- Euro https://euro.com.br (html, css, js, wp)
-- EloWin https://elowin.com.br (html, css, js, design)
-- Evermore https://evermoreglobal.co.uk/ (html, css, js)
-- Faculdades São José http://www.saojose.br (html, css, js, wp)
-- Futebol Ao Vivo https://www.futebolaovivo.com.br (html, css, js, wp)
-- Gaia Hotel https://hotelgaia.com.br/ (html, css, js, wp)
-- Gomide Contabilidade https://www.gomidecontabilidade.com.br (html, css, js, wp, design)
-- Gourmet Jr. http://www.gourmetjr.com (html, css, js, wp)
-- Gracie Barra http://graciebarra.com (html, css, js, wp)
-- I Got COVID https://igotcovid.com (html, css, js, layout)
-- Igllu (html, css, js, wp, layout)
-- Ingresso Now https://ingressonow.com.br/ (html, css, js)
-- International Brazilian Jiu-Jitsu http://ibjjf.org (html, css, js, wp)
-- Kind Leather http://kindleather.com/ (html, css)
-- Lapa Team https://lapateam.com (html, css, js, wp)
-- Meu Cupom Legal https://meucupomlegal.com.br (html, css, js, wp, design)
-- Mixcon https://mixcon.com.br (html, css, js, wp)
-- Mob.Go http://mob-goapp.com.br/ (html, css, js)
-- Moove https://mooveproducoes.com (design, html, css, js, wp)
-- Mr. Bey https://www.mrbey.com.br/ (wp)
-- Nau Editora https://naueditora.com.br (html, css, js, wp, ecommerce)
-- Nootra https://nootra.me (html, css, js)
-- Orange Agency http://orangeag.com.br (html, css, js, wp)
-- Pick N Roll https://www.picknrollbrand.com (html, css, js, wp, ecommerce)
-- Project Lab http://www.projectlab.com.br (html, css, js, wp)
-- Projeto Mosaico https://projetomosaico.com.br (html, css, js, wp)
-- Priante http://conceriaprianteusa.com (html, css, js, wp)
-- Ruby Rose http://www.rubyrose.com.br (html, css, js, wp)
-- Ponto Urbano https://pontourbano.net (html, css, js, wp)
-- SingleTrips http://www.singletrips.com.br (html, css, js, wp)
-- Solacium http://solacium.com.br/site/ (html, css, js)
-- Speedo https://www.speedo.com.br/ (html, css, js)
-- Talk Of The Town http://www.talkofthetown.com.br (html, css, js, wp)
-- TORClean https://torclean.com.br (html, css, js, design)
-- Skyline Agency http://www.theskylineagency.com (html, css, js, wp)
-- VX Strong http://www.vitaxtrong.com/ (html, css, js, wp)
-- XSpartan http://www.xspartan.com.br (layout, html, css, js, wp)
+- D-Link https://dlink.com.br
+- Evermore https://evermoreglobal.co.uk
+- International Brazilian Jiu-Jitsu https://ibjjf.com/
+
+# w/Huge
+- BeCare http://becaremat.com.br
+- Bluecont https://www.bluecont.com
+- Café Recanto http://caferecanto.com.br
+- Camarote FanZone http://camarotefanzone.com.br
+- Catarina Fest https://catarinafest.com
+- Coral Tintas https://lojacoral.com.br
+- D-Link Brasil http://dlink.com.br
+- DrinkPedia http://www.drinkpedia.net.br
+- Dymatize http://www.dymatize.com
+- Driven.Cx http://www.driven.cx
+- DWQ http://dwq.com.br
+- Euro https://euro.com.br
+- EloWin https://elowin.com.br
+- Evermore https://evermoreglobal.co.uk
+- Faculdades São José http://www.saojose.br
+- Futebol Ao Vivo https://www.futebolaovivo.com.br
+- Gaia Hotel https://hotelgaia.com.br
+- Gomide Contabilidade https://www.gomidecontabilidade.com.br
+- Gourmet Jr. http://www.gourmetjr.com
+- Gracie Barra http://graciebarra.com
+- I Got COVID https://igotcovid.com
+- Ingresso Now https://ingressonow.com.br
+- International Brazilian Jiu-Jitsu http://ibjjf.org
+- Kind Leather http://kindleather.com
+- Lapa Team https://lapateam.com
+- Meu Cupom Legal https://meucupomlegal.com.br
+- Mixcon https://mixcon.com.br
+- Mob.Go http://mob-goapp.com.br
+- Moove https://mooveproducoes.com
+- Mr. Bey https://www.mrbey.com.br
+- Nau Editora https://naueditora.com.br
+- Nootra https://nootra.me
+- Orange Agency http://orangeag.com.br
+- Pick N Roll https://www.picknrollbrand.com
+- Project Lab http://www.projectlab.com.br
+- Projeto Mosaico https://projetomosaico.com.br
+- Priante http://conceriaprianteusa.com
+- Ruby Rose http://www.rubyrose.com.br
+- Ponto Urbano https://pontourbano.net
+- SingleTrips http://www.singletrips.com.br
+- Speedo https://www.speedo.com.br/
+- Talk Of The Town http://www.talkofthetown.com.br
+- TORClean https://torclean.com.br
+- Skyline Agency http://www.theskylineagency.com
+- VX Strong http://www.vitaxtrong.com
+- XSpartan http://www.xspartan.com.br
 
 ##################################################
 
-w/Profite
+# w/Profite
 
-- DrinkPedia http://www.drinkpedia.net.br/ (html, css, js, wp)
-- Driven.Cx http://www.driven.cx (html, css, js, wp)
-
-##################################################
-
-w/BrainBros
-- 242 Coworking http://www.coworkingnojardins.com.br/ (html, css, js, wp)
-- Aragon http://www.aragongrupo.com.br (html, css, js)
-- Desidrat http://www.desidrat.com.br (html, css, js, wp)
-- Dymatize http://www.dymatize.com (html, css, js)
-- Eleven Blindados http://www.elevenblindados.com.br (html, css, js, wp)
-- Exceda http://www.exceda.com (html, css, js, wp)
-- Exceda Insights http://www.exceda.com/insights/ (html, css, js, wp)
-- Fantastic Stadium Buffet http://www.fantasticstadiumbuffet.com.br/ (html, css, js, wp)
-- Gourmet Jr. http://www.gourmetjr.com (html, css, js, wp)
-- Isover http://www.isover.com.br (drupal)
-- Skyline http://www.theagencyskyline.com (html, css, js, wp)
-- Thermomatic http://www.thermomatic.com.br (html, css, js, wp)
-- VX Strong http://www.vitaxtrong.com/ (html, css, js, wp)
-- XCDN https://xcdn.exceda.com (html, css, js, wp)
+- DrinkPedia http://www.drinkpedia.net.br
+- Driven.Cx http://www.driven.cx
 
 ##################################################
 
-w/Muum
-- BeCare http://becaremat.com.br/ (html, css, js, wp)
-- Inova Papan https://inovapapan.com.br (html, css, js, wp, ecommerce)
+# w/BrainBros
+- 242 Coworking http://www.coworkingnojardins.com.br
+- Aragon http://www.aragongrupo.com.br
+- Desidrat http://www.desidrat.com.br
+- Dymatize http://www.dymatize.com
+- Eleven Blindados http://www.elevenblindados.com.br
+- Exceda http://www.exceda.com
+- Exceda Insights http://www.exceda.com/insights
+- Fantastic Stadium Buffet http://www.fantasticstadiumbuffet.com.br
+- Gourmet Jr. http://www.gourmetjr.com
+- Isover http://www.isover.com.br
+- Skyline http://www.theagencyskyline.com
+- Thermomatic http://www.thermomatic.com.br
+- VX Strong http://www.vitaxtrong.com
+- XCDN https://xcdn.exceda.com
 
 ##################################################
 
-w/PocketLab
-- Nau Editora https://naueditora.com.br (html, css, js, wp, ecommerce)
+# w/Muum
+- BeCare http://becaremat.com.br
+- Inova Papan https://inovapapan.com.br
 
 ##################################################
 
-f/Groupmy Agency
-- Ackler http://www.moveisackler.com.br (html, css, js, design)
-- Agropecuária Rodeio http://www.agropecuariarodeio.com.br (html, css, js, design)
-- Asti Distribuidora http://www.astidistribuidora.com.br (html, css, js, design)
-- Arte Sofá http://www.artesofa.com.br (html, css, js, design)
-- Bar Express http://barexpress.alfasig.com.br (html, css, js, design)
-- Canova Empreendimentos http://www.canova-rs.com.br (html, css, js, design)
-- Certezza Máquinas Agrículas http://www.certezza.agr.br (html, css, js, design)
-- Cia da Panela http://www.ciadapanela.com.br (html, css, js, design)
-- Clube Comercial http://www.clubecomercialpf.com.br (html, css, js, design)
-- Dall'agnol Caminhões http://www.dallagnol.com.br (html, css, js, design)
-- Natu's Lanches http://www.natuslanches.com.br (html, css, js, design)
+# w/PocketLal
+- Nau Editora https://naueditora.com.br
 
 ##################################################
 
-w/Rox Branding
-- Don Pastello http://donpastello.com.br (html, css, js, wp)
+# f/Groupmy Agency
+- Ackler http://www.moveisackler.com.br
+- Agropecuária Rodeio http://www.agropecuariarodeio.com.br
+- Asti Distribuidora http://www.astidistribuidora.com.br
+- Arte Sofá http://www.artesofa.com.br
+- Bar Express http://barexpress.alfasig.com.br
+- Canova Empreendimentos http://www.canova-rs.com.br
+- Certezza Máquinas Agrículas http://www.certezza.agr.br
+- Cia da Panela http://www.ciadapanela.com.br
+- Clube Comercial http://www.clubecomercialpf.com.br
+- Dall'agnol Caminhões http://www.dallagnol.com.br
+- Natu's Lanches http://www.natuslanches.com.br
+
+##################################################
+
+# w/Rox Branding
+- Don Pastello http://donpastello.com.br
 
 ##################################################
 
