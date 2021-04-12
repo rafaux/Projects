@@ -1,5 +1,6 @@
-#Featured
+# Featured
 
+w/Huge
 - BeCare http://becaremat.com.br/ (html, css, js, wp)
 - Bluecont https://www.bluecont.com/ (html, css, wp, design)
 - Café Recanto http://caferecanto.com.br (html, css, js, wp)
@@ -51,14 +52,14 @@
 
 ##################################################
 
-f/Profite
+w/Profite
 
 - DrinkPedia http://www.drinkpedia.net.br/ (html, css, js, wp)
 - Driven.Cx http://www.driven.cx (html, css, js, wp)
 
 ##################################################
 
-f/BrainBros
+w/BrainBros
 - 242 Coworking http://www.coworkingnojardins.com.br/ (html, css, js, wp)
 - Aragon http://www.aragongrupo.com.br (html, css, js)
 - Desidrat http://www.desidrat.com.br (html, css, js, wp)
@@ -76,13 +77,13 @@ f/BrainBros
 
 ##################################################
 
-f/Muum
+w/Muum
 - BeCare http://becaremat.com.br/ (html, css, js, wp)
 - Inova Papan https://inovapapan.com.br (html, css, js, wp, ecommerce)
 
 ##################################################
 
-f/PocketLab
+w/PocketLab
 - Nau Editora https://naueditora.com.br (html, css, js, wp, ecommerce)
 
 ##################################################
@@ -102,7 +103,7 @@ f/Groupmy Agency
 
 ##################################################
 
-f/Rox Branding
+w/Rox Branding
 - Don Pastello http://donpastello.com.br (html, css, js, wp)
 
 ##################################################
