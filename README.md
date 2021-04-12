@@ -1,8 +1,19 @@
 # Featured
 
+- Coral Tintas https://lojacoral.com.br
+- Dymatize http://www.dymatize.com
 - D-Link https://dlink.com.br
 - Evermore https://evermoreglobal.co.uk
+- Exceda https://exceda.com
+- Euro https://euro.com.br
+- Gourmet Jr. http://www.gourmetjr.com.br
+- Kind Leather http://kindleather.com
 - International Brazilian Jiu-Jitsu https://ibjjf.com/
+- Ponto Urbano https://pontourbano.net
+- Skyline Agency http://www.theskylineagency.com
+- Speedo https://www.speedo.com.br/
+- MotoAtacama Honda https://tours.motoatacama.com.br/
+- VX Strong http://www.vitaxtrong.com
 
 # w/Huge
 - BeCare http://becaremat.com.br
@@ -25,14 +36,11 @@
 - Gomide Contabilidade https://www.gomidecontabilidade.com.br
 - Gourmet Jr. http://www.gourmetjr.com
 - Gracie Barra http://graciebarra.com
-- I Got COVID https://igotcovid.com
 - Ingresso Now https://ingressonow.com.br
 - International Brazilian Jiu-Jitsu http://ibjjf.org
 - Kind Leather http://kindleather.com
 - Lapa Team https://lapateam.com
-- Meu Cupom Legal https://meucupomlegal.com.br
 - Mixcon https://mixcon.com.br
-- Mob.Go http://mob-goapp.com.br
 - Moove https://mooveproducoes.com
 - Mr. Bey https://www.mrbey.com.br
 - Nau Editora https://naueditora.com.br
@@ -62,20 +70,18 @@
 ##################################################
 
 # w/BrainBros
-- 242 Coworking http://www.coworkingnojardins.com.br
+
 - Aragon http://www.aragongrupo.com.br
 - Desidrat http://www.desidrat.com.br
 - Dymatize http://www.dymatize.com
 - Eleven Blindados http://www.elevenblindados.com.br
 - Exceda http://www.exceda.com
-- Exceda Insights http://www.exceda.com/insights
 - Fantastic Stadium Buffet http://www.fantasticstadiumbuffet.com.br
-- Gourmet Jr. http://www.gourmetjr.com
+- Gourmet Jr. http://www.gourmetjr.com.br
 - Isover http://www.isover.com.br
 - Skyline http://www.theagencyskyline.com
 - Thermomatic http://www.thermomatic.com.br
 - VX Strong http://www.vitaxtrong.com
-- XCDN https://xcdn.exceda.com
 
 ##################################################
 
