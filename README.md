@@ -1,7 +1,5 @@
 # Featured
 
-- Carol Fonseca https://carollinasrfonseca.com
-- Coral Tintas https://lojacoral.com.br
 - Dymatize http://www.dymatize.com
 - D-Link https://dlink.com.br
 - Evermore https://evermoreglobal.co.uk
@@ -10,6 +8,7 @@
 - Gourmet Jr. http://www.gourmetjr.com.br
 - Kind Leather http://kindleather.com
 - International Brazilian Jiu-Jitsu https://ibjjf.com
+- Lopes Rio https://lopesrio.com.br
 - Ponto Urbano https://pontourbano.net
 - Projeto Mosaico https://projetomosaico.com.br
 - Skyline Agency http://www.theskylineagency.com
