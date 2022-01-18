@@ -8,6 +8,7 @@
 - Gourmet Jr. http://www.gourmetjr.com.br
 - Kind Leather http://kindleather.com
 - International Brazilian Jiu-Jitsu https://ibjjf.com
+- JBS https://jbs.com.br
 - Lopes Rio https://lopesrio.com.br
 - Ponto Urbano https://pontourbano.net
 - Projeto Mosaico https://projetomosaico.com.br
