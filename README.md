@@ -9,6 +9,7 @@
 - Kind Leather http://kindleather.com
 - International Brazilian Jiu-Jitsu https://ibjjf.com
 - JBS https://jbs.com.br
+- Levi Grafi http://levigrafi.com/
 - Lopes Rio https://lopesrio.com.br
 - Ponto Urbano https://pontourbano.net
 - Projeto Mosaico https://projetomosaico.com.br
@@ -42,6 +43,7 @@
 - International Brazilian Jiu-Jitsu http://ibjjf.org
 - Kind Leather http://kindleather.com
 - Lapa Team https://lapateam.com
+- Levi Grafi http://levigrafi.com/
 - Mixcon https://mixcon.com.br
 - Moove https://mooveproducoes.com
 - Mr. Bey https://www.mrbey.com.br
