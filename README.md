@@ -13,6 +13,7 @@
 - Lopes Rio https://lopesrio.com.br
 - Ponto Urbano https://pontourbano.net
 - Projeto Mosaico https://projetomosaico.com.br
+- Hotéis Quinta do Sol https://hoteisquintadosol.com
 - Skyline Agency http://www.theskylineagency.com
 - Speedo https://www.speedo.com.br/
 - MotoAtacama Honda https://tours.motoatacama.com.br
@@ -39,6 +40,7 @@
 - Gomide Contabilidade https://www.gomidecontabilidade.com.br
 - Gourmet Jr. http://www.gourmetjr.com
 - Gracie Barra http://graciebarra.com
+- Hotéis Quinta do Sol https://hoteisquintadosol.com
 - Ingresso Now https://ingressonow.com.br
 - International Brazilian Jiu-Jitsu http://ibjjf.org
 - Kind Leather http://kindleather.com
