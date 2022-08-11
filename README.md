@@ -9,6 +9,7 @@
 - Kind Leather http://kindleather.com
 - International Brazilian Jiu-Jitsu https://ibjjf.com
 - JBS https://jbs.com.br
+- JBS Net Zero https://jbs.com.br/netzero/
 - Levi Grafi http://levigrafi.com/
 - Lopes Rio https://lopesrio.com.br
 - Ponto Urbano https://pontourbano.net
