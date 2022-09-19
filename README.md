@@ -12,6 +12,7 @@
 - JBS Net Zero https://jbs.com.br/netzero/
 - Levi Grafi http://levigrafi.com/
 - Lopes Rio https://lopesrio.com.br
+- Mestres da Web https://mestresdaweb.com.br/
 - Ponto Urbano https://pontourbano.net
 - Projeto Mosaico https://projetomosaico.com.br
 - Hotéis Quinta do Sol https://hoteisquintadosol.com
