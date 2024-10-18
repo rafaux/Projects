@@ -13,9 +13,11 @@
 - Levi Grafi http://levigrafi.com/
 - Lopes Rio https://lopesrio.com.br
 - Mestres da Web https://mestresdaweb.com.br/
+- Oráh https://orah.com.br
 - Ponto Urbano https://pontourbano.net
 - Projeto Mosaico https://projetomosaico.com.br
 - Hotéis Quinta do Sol https://hoteisquintadosol.com
+- Seara https://seara.com.br
 - Skyline Agency http://www.theskylineagency.com
 - Speedo https://www.speedo.com.br/
 - MotoAtacama Honda https://tours.motoatacama.com.br
